@@ -1,18 +1,16 @@
-Disciplina: RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE
+Disciplina: RELAÃ‡Ã•ES SOCIAIS Ã‰TNICAS E MEIO AMBIENTE
 Periodo: 1
-Carga Horária: 20
+Carga HorÃ¡ria: 20
  
 Ementa:
-    Estudar as relações entre História, Ambiente e relações étnicas, a partir dos diálogos teóricos gerais da História Ambiental, discutindo as questões étnicas. Análise dos principais problemas socioambientais e contemporâneos e o impacto desses problemas na vida diária das pessoas e no contexto onde estão inseridas. Responsabilidade social. Conceito de sustentabilidade. Sustentabilidade como política de orientação do planejamento estratégico das organizações.
+    Estudar as relaÃ§Ãµes entre HistÃ³ria, Ambiente e relaÃ§Ãµes Ã©tnicas, a partir dos diÃ¡logos teÃ³ricos gerais da HistÃ³ria Ambiental, discutindo as questÃµes Ã©tnicas. AnÃ¡lise dos principais problemas socioambientais e contemporÃ¢neos e o impacto desses problemas na vida diÃ¡ria das pessoas e no contexto onde estÃ£o inseridas. Responsabilidade social. Conceito de sustentabilidade. Sustentabilidade como polÃ­tica de orientaÃ§Ã£o do planejamento estratÃ©gico das organizaÃ§Ãµes.
  
 Objetivos Gerais:
-    Despertar o interesse do discente para as questões sócio-econômico-ambientais a fim de possibilitar a análise crítica dos dilemas contemporâneos, em prol da efetividade do exercício da cidadania.
+    Despertar o interesse do discente para as questÃµes sÃ³cio-econÃ´mico-ambientais a fim de possibilitar a anÃ¡lise crÃ­tica dos dilemas contemporÃ¢neos, em prol da efetividade do exercÃ­cio da cidadania.
  
-Objetivos Específicos:
-    Estuda a importância das questões ambientais e as relações étnicos raciais e sua aplicabilidade no cotidiano.
+Objetivos EspecÃ­ficos:
+    Estuda a importÃ¢ncia das questÃµes ambientais e as relaÃ§Ãµes Ã©tnicos raciais e sua aplicabilidade no cotidiano.
  
 Metodologia:
     Aula expositiva, debates e metodologia ativas
  
-Critérios de Avaliação:
-    Avaliação (prova) participação seminários
