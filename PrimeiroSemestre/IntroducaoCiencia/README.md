@@ -1,18 +1,16 @@
-Disciplina: INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
+Disciplina: INTRODUÃ‡ÃƒO Ã€ CIÃŠNCIA DA COMPUTAÃ‡ÃƒO
 Periodo: 1
-Carga Horária: 60
+Carga HorÃ¡ria: 60
  
 Ementa:
-    Histórico e visão geral de Computação como ciência. Visão geral do curso de Ciência da Computação no Brasil: Engenharia de Computação, Ciência da Computação, Sistemas de Informação e Licenciatura em Computação. Sistemas componentes de um computador: hardware e software. Noções de Algoritmo (representação da informação no computador) e linguagem de programação (tradução de meta-linguagens para linguagem de máquina). Explanação de áreas da ciência da computação: Teoria da Computação e Algoritmos, Engenharia de Software, Banco de Dados, Redes de Computadores, Engenharia de Computadores, Inteligência Artificial, Interfaces Homem-Máquina.
+    HistÃ³rico e visÃ£o geral de ComputaÃ§Ã£o como ciÃªncia. VisÃ£o geral do curso de CiÃªncia da ComputaÃ§Ã£o no Brasil: Engenharia de ComputaÃ§Ã£o, CiÃªncia da ComputaÃ§Ã£o, Sistemas de InformaÃ§Ã£o e Licenciatura em ComputaÃ§Ã£o. Sistemas componentes de um computador: hardware e software. NoÃ§Ãµes de Algoritmo (representaÃ§Ã£o da informaÃ§Ã£o no computador) e linguagem de programaÃ§Ã£o (traduÃ§Ã£o de meta-linguagens para linguagem de mÃ¡quina). ExplanaÃ§Ã£o de Ã¡reas da ciÃªncia da computaÃ§Ã£o: Teoria da ComputaÃ§Ã£o e Algoritmos, Engenharia de Software, Banco de Dados, Redes de Computadores, Engenharia de Computadores, InteligÃªncia Artificial, Interfaces Homem-MÃ¡quina.
  
 Objetivos Gerais:
-    Fornecer orientação sobre a futura atuação profissional, e também sobre as disciplinas e atividades do curso, visando maximizar o aproveitamento dos alunos.
+    Fornecer orientaÃ§Ã£o sobre a futura atuaÃ§Ã£o profissional, e tambÃ©m sobre as disciplinas e atividades do curso, visando maximizar o aproveitamento dos alunos.
  
-Objetivos Específicos:
-    Compreender as diversas áreas de atuação profissional dentro de Ciência da Computação. Compreender as diversas áreas de pesquisa dentro de Ciência da Computação; As formações e títulos específicos bem como as certificações disponíveis na área. Apresentar as diferenças entre hardware e software bem como as diversas tecnologias disponíveis em cada uma. Apresentação e aplicação de ferramentas assistivas de uso colaborativo e em nuvem. Introdução e Aplicação de Algoritmos.
+Objetivos EspecÃ­ficos:
+    Compreender as diversas Ã¡reas de atuaÃ§Ã£o profissional dentro de CiÃªncia da ComputaÃ§Ã£o. Compreender as diversas Ã¡reas de pesquisa dentro de CiÃªncia da ComputaÃ§Ã£o; As formaÃ§Ãµes e tÃ­tulos especÃ­ficos bem como as certificaÃ§Ãµes disponÃ­veis na Ã¡rea. Apresentar as diferenÃ§as entre hardware e software bem como as diversas tecnologias disponÃ­veis em cada uma. ApresentaÃ§Ã£o e aplicaÃ§Ã£o de ferramentas assistivas de uso colaborativo e em nuvem. IntroduÃ§Ã£o e AplicaÃ§Ã£o de Algoritmos.
  
 Metodologia:
-    Aula expositiva e dialogada com uso de recursos multimídia. Uso de laboratório para atividades práticas direcionadas.
+    Aula expositiva e dialogada com uso de recursos multimÃ­dia. Uso de laboratÃ³rio para atividades prÃ¡ticas direcionadas.
  
-Critérios de Avaliação:
-    Prova teórica do conteúdo apresentado em aula; Questionários e listas de exercícios. Apresentação de seminários.
