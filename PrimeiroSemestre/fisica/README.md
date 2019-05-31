@@ -1,18 +1,16 @@
-Disciplina: FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
+Disciplina: FUNDAMENTOS DA FÃSICA PARA COMPUTAÃ‡ÃƒO
 Periodo: 1
-Carga Horária: 60
+Carga HorÃ¡ria: 60
  
 Ementa:
-    Circuitos elétricos sob o regime de corrente contínua e alternada. Medidas Elétricas e Instrumentos de Medidas. Dispositivos Elétricos (resistores, capacitores, indutores, diodos, etc).
+    Circuitos elÃ©tricos sob o regime de corrente contÃ­nua e alternada. Medidas ElÃ©tricas e Instrumentos de Medidas. Dispositivos ElÃ©tricos (resistores, capacitores, indutores, diodos, etc).
  
 Objetivos Gerais:
-    Propiciar aos alunos conhecimento, conceitos básicos teóricos e experimentais de eletricidade e magnetismo aplicáveis à Ciência da Computação.
+    Propiciar aos alunos conhecimento, conceitos bÃ¡sicos teÃ³ricos e experimentais de eletricidade e magnetismo aplicÃ¡veis Ã  CiÃªncia da ComputaÃ§Ã£o.
  
-Objetivos Específicos:
-    Ao final da disciplina o aluno deverá ter noções do uso de instrumentos elétricos, tais como osciloscópio, multímetros e geradores, etc. Com as noções básicas adquiridas nesta disciplina o aluno deverá entender e projetar circuitos elétricos simples indispensáveis nas disciplinas mais avançadas ao curso de Computação.
+Objetivos EspecÃ­ficos:
+    Ao final da disciplina o aluno deverÃ¡ ter noÃ§Ãµes do uso de instrumentos elÃ©tricos, tais como osciloscÃ³pio, multÃ­metros e geradores, etc. Com as noÃ§Ãµes bÃ¡sicas adquiridas nesta disciplina o aluno deverÃ¡ entender e projetar circuitos elÃ©tricos simples indispensÃ¡veis nas disciplinas mais avanÃ§adas ao curso de ComputaÃ§Ã£o.
  
 Metodologia:
-    Aulas expositivas; listas de exercícios; vídeos e simuladores
+    Aulas expositivas; listas de exercÃ­cios; vÃ­deos e simuladores
  
-Critérios de Avaliação:
-    Listas de exercício e Provas Bimestrais
