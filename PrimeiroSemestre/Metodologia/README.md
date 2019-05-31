@@ -1,18 +1,16 @@
 Disciplina: Metodologia da Pesquisa Cientifica
 Periodo: 1
-Carga Horária: 40
+Carga HorÃ¡ria: 40
  
 Ementa:
-    Fundamentos da Metodologia Científica. A Comunicação Científica. Métodos e técnicas de pesquisa. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organização de texto científico (Normas ABNT e IEEE).
+    Fundamentos da Metodologia CientÃ­fica. A ComunicaÃ§Ã£o CientÃ­fica. MÃ©todos e tÃ©cnicas de pesquisa. A comunicaÃ§Ã£o entre orientados/orientadores. Normas para ElaboraÃ§Ã£o de Trabalhos AcadÃªmicos. O prÃ©-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organizaÃ§Ã£o de texto cientÃ­fico (Normas ABNT e IEEE).
  
 Objetivos Gerais:
-    Construir o conhecimento científico por meio da elaboração de um artigo científico.
+    Construir o conhecimento cientÃ­fico por meio da elaboraÃ§Ã£o de um artigo cientÃ­fico.
  
-Objetivos Específicos:
-    Proporcionar vivências para a elaboração de um artigo científico.
+Objetivos EspecÃ­ficos:
+    Proporcionar vivÃªncias para a elaboraÃ§Ã£o de um artigo cientÃ­fico.
  
 Metodologia:
-    Aulas em data show, elaboração de trabalhos e leitura de artigos científicos
+    Aulas em data show, elaboraÃ§Ã£o de trabalhos e leitura de artigos cientÃ­ficos
  
-Critérios de Avaliação:
-    Avaliações dissertativas e apresentações de artigos e trabalhos em plenária
