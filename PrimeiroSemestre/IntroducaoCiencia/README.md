@@ -9,7 +9,7 @@ Objetivos Gerais:
     Fornecer orientação sobre a futura atuação profissional, e também sobre as disciplinas e atividades do curso, visando maximizar o aproveitamento .
  
 Objetivos Específicos:
-    Compreender as diversas áreas de atuação profissional dentro de Ciência da Computação. Compreender as diversas áreas de pesquisa dentro de Ciência da Computação; As formações e títulos específicos bem como as certificações disponíveis na área. Apresentar as diferenças entre hardware e software bem como as diversas tecnologias disponíveis em cada uma. Apresentação e aplicação de ferramentas assistivas de uso colaborativo e em nuvem. Introdução e Aplicação de Algoritmos.
+    Compreender as diversas áreas de atuação profissional dentro de Ciência da Computação. Compreender as diversas áreas de pesquisa dentro de Ciência da Computação; As formações e títulos específicos bem como as certificações disponíveis na área. Apresentar as diferenças entre hardware e software bem como as diversas tecnologias disponíveis em cada uma. Apresentação e aplicação de ferramentas assistivas de uso colaborativo e em nuvem. Introdução e Aplicação de Algoritmoss.
  
 
  
